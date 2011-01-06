@@ -1,0 +1,1 @@
+<?phpinclude_once('breadcrumbs.class.php');$crumbs = new BreadCrumbs();$crumbs->getTrail();?><a href="link1">link 1</a>
